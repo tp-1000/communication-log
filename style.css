@@ -7,6 +7,7 @@ body {
    margin-left: 20%;
    margin-right: 20%;
 }
+<<<<<<< HEAD
 
 
 
@@ -15,4 +16,9 @@ body {
 
 a {
    background-color: aquamarine;
+}
+paragraph {
+   color: black;
+   background-color: white;
+   font-size: 17px;
 }
